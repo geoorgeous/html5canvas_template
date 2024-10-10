@@ -1,0 +1,16 @@
+#content {
+    display: block;
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 50%;
+}
+
+#canvas {
+    background-color: grey;padding: 0;
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 800px;
+    height: 600px;
+}
